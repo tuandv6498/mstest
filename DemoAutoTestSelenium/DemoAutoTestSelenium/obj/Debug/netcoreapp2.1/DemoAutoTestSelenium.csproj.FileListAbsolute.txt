@@ -1,0 +1,17 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoAutoTestSelenium\DemoAutoTestSelenium\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoAutoTestSelenium\DemoAutoTestSelenium\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoAutoTestSelenium\DemoAutoTestSelenium\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoAutoTestSelenium\DemoAutoTestSelenium\bin\Debug\netcoreapp2.1\DemoAutoTestSelenium.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoAutoTestSelenium\DemoAutoTestSelenium\bin\Debug\netcoreapp2.1\DemoAutoTestSelenium.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoAutoTestSelenium\DemoAutoTestSelenium\bin\Debug\netcoreapp2.1\DemoAutoTestSelenium.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoAutoTestSelenium\DemoAutoTestSelenium\bin\Debug\netcoreapp2.1\DemoAutoTestSelenium.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoAutoTestSelenium\DemoAutoTestSelenium\bin\Debug\netcoreapp2.1\DemoAutoTestSelenium.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoAutoTestSelenium\DemoAutoTestSelenium\obj\Debug\netcoreapp2.1\DemoAutoTestSelenium.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoAutoTestSelenium\DemoAutoTestSelenium\obj\Debug\netcoreapp2.1\DemoAutoTestSelenium.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoAutoTestSelenium\DemoAutoTestSelenium\obj\Debug\netcoreapp2.1\DemoAutoTestSelenium.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoAutoTestSelenium\DemoAutoTestSelenium\obj\Debug\netcoreapp2.1\DemoAutoTestSelenium.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoAutoTestSelenium\DemoAutoTestSelenium\obj\Debug\netcoreapp2.1\DemoAutoTestSelenium.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoAutoTestSelenium\DemoAutoTestSelenium\obj\Debug\netcoreapp2.1\DemoAutoTestSelenium.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoAutoTestSelenium\DemoAutoTestSelenium\bin\Debug\netcoreapp2.1\chromedriver.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoAutoTestSelenium\DemoAutoTestSelenium\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\DemoAutoTestSelenium\DemoAutoTestSelenium\bin\Debug\netcoreapp2.1\testhost.dll
