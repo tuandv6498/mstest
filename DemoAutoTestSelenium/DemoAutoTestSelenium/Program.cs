@@ -11,7 +11,7 @@ using System.Windows;
 using DocumentFormat.OpenXml.Packaging;
 using DocumentFormat.OpenXml.Spreadsheet;
 
-namespace AutoTestSelenium
+namespace DemoAutoTestSelenium
 {
     [TestClass]
     public class Program

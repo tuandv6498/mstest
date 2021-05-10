@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "DocumentFormat.OpenXml/2.12.3": {
+      "DocumentFormat.OpenXml/2.12.2": {
         "type": "package",
         "dependencies": {
           "System.IO.Packaging": "4.7.0"
@@ -789,14 +789,14 @@
     }
   },
   "libraries": {
-    "DocumentFormat.OpenXml/2.12.3": {
-      "sha512": "qLww6khV25dTzGU3+9rG5vB6RbMoWuNA015151ZmazoepkvxW6/4a5u4QQASoXsZsBITsw5ZO0/Xpzm31tQ43g==",
+    "DocumentFormat.OpenXml/2.12.2": {
+      "sha512": "IyJ0TJMyTeS2WkRa60H09C6WfCOtYAnD9meucJ/6NL9oylGhhfzUdc97QAPl9lp7hkEEgaIO2XxUgKyA2jdAdw==",
       "type": "package",
-      "path": "documentformat.openxml/2.12.3",
+      "path": "documentformat.openxml/2.12.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "documentformat.openxml.2.12.3.nupkg.sha512",
+        "documentformat.openxml.2.12.2.nupkg.sha512",
         "documentformat.openxml.nuspec",
         "icon.png",
         "lib/net35/DocumentFormat.OpenXml.dll",
@@ -3221,7 +3221,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "DocumentFormat.OpenXml >= 2.12.3",
+      "DocumentFormat.OpenXml >= 2.12.2",
       "MSTest.TestAdapter >= 2.2.4-preview-20210331-02",
       "MSTest.TestFramework >= 2.2.4-preview-20210331-02",
       "Microsoft.NET.Test.Sdk >= 16.10.0-release-20210429-01",
@@ -3275,7 +3275,7 @@
         "dependencies": {
           "DocumentFormat.OpenXml": {
             "target": "Package",
-            "version": "[2.12.3, )"
+            "version": "[2.12.2, )"
           },
           "MSTest.TestAdapter": {
             "target": "Package",
